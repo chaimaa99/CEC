@@ -1,4 +1,4 @@
-
+pytest
 matplotlib
 numpy
 pandas
@@ -7,5 +7,6 @@ scipy
 openpyxl
 pymongo
 configparser
+
 
 
