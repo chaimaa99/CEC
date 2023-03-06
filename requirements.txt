@@ -1,4 +1,4 @@
-pytest
+pip install pytest
 matplotlib
 numpy
 pandas
